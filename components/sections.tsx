@@ -248,5 +248,4 @@ export function Footer() {
     </footer>
   )
 }
-export default Clients
 export { Clients, Work, Team, Mission, CTA, Footer }
