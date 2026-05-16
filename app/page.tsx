@@ -1,14 +1,9 @@
 'use client'
 import Navbar from '@/components/Navbar'
 import Hero from '@/components/Hero'
-import Clients from '@/components/Clients'
-import Work from '@/components/Work'
-import Team from '@/components/Team'
-import Mission from '@/components/Mission'
-import CTA from '@/components/CTA'
-import Footer from '@/components/Footer'
 import Cursor from '@/components/Cursor'
 import Blobs from '@/components/Blobs'
+import { Clients, Work, Team, Mission, CTA } from '@/components/sections'
 
 export default function Home() {
   return (
