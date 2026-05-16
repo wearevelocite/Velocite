@@ -57,4 +57,4 @@ export function Footer() {
   )
 }
 
-export default Clients
+import { Clients, Work, Team, Mission, CTA, Footer } from '@/components/sections'
