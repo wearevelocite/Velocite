@@ -248,7 +248,5 @@ export function Footer() {
     </footer>
   )
 }
-
-import { useRef } from 'react'
 export default Clients
 export { Clients, Work, Team, Mission, CTA, Footer }
